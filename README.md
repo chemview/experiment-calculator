@@ -16,4 +16,4 @@ This project contains calculators for the following experiments:
 - 二氯化一氯五氨合钴的制备、水合反应速率常数和活化能的测定
 
 ## Using
-Visit [https://experiment.chemview.fwits.cn](https://experiment.chemview.fwits.cn) to use the calculators online, or you can deploy the code to your own server with PHP support.
+Visit [http://experiment.chemview.fwits.cn](http://experiment.chemview.fwits.cn) to use the calculators online, or you can deploy the code to your own server with PHP support.
